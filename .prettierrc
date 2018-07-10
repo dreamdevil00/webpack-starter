@@ -1,0 +1,35 @@
+{
+  "prettier.arrowParens": "avoid",
+
+  "prettier.bracketSpacing": true,
+
+  "prettier.disableLanguages": [
+    "vue"
+  ],
+
+  "prettier.eslintIntegration": true,
+
+  "prettier.ignorePath": ".prettierignore",
+
+  "prettier.jsxBracketSameLine": false,
+
+  "prettier.parser": "babylon",
+
+  "prettier.printWidth": 80,
+
+  "prettier.proseWrap": "preserve",
+
+  "prettier.requireConfig": false,
+
+  "prettier.semi": true,
+
+  "prettier.singleQuote": true,
+
+  "prettier.stylelintIntegration": true,
+
+  "prettier.tabWidth": 2,
+
+  "prettier.trailingComma": "all",
+
+  "prettier.useTabs": false
+}
